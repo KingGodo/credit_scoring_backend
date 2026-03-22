@@ -1,0 +1,316 @@
+[2026-03-21T17:03:03.091Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:03:03.100Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:03:12.949Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:03:12.956Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:03:17.247Z] INFO: GET /api/lenders
+[2026-03-21T17:06:15.485Z] INFO: POST /api/auth/register
+[2026-03-21T17:07:07.165Z] INFO: POST /api/auth/login
+[2026-03-21T17:07:37.118Z] INFO: GET /api/lenders
+[2026-03-21T17:07:48.327Z] INFO: GET /api/lenders
+[2026-03-21T17:17:22.314Z] INFO: POST /api/lenders
+[2026-03-21T17:17:28.715Z] INFO: GET /api/lenders
+[2026-03-21T17:26:54.447Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:26:54.453Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:27:06.067Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:27:06.072Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:27:17.457Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:27:17.462Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:29:27.680Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:29:27.686Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:29:41.788Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:29:41.793Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:30:31.902Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:30:31.907Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:30:55.309Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:30:55.314Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:31:07.772Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:31:07.776Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:31:18.294Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:31:18.298Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:31:33.233Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:31:33.238Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:31:58.852Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:31:58.857Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:32:42.939Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:32:42.943Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:32:58.463Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:32:58.467Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:36:11.787Z] INFO: POST /api/lender-staff
+[2026-03-21T17:36:45.689Z] INFO: POST /api/lender-staff
+[2026-03-21T17:37:32.786Z] INFO: POST /api/lender-staff
+[2026-03-21T17:48:47.832Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:48:47.837Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:50:24.789Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:50:24.794Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:50:34.144Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:50:34.150Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:50:45.325Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:50:45.329Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:50:56.694Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:50:56.699Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:51:19.930Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:51:19.935Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:51:31.148Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:51:31.152Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:51:42.740Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:51:42.747Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:51:57.432Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:51:57.440Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:52:13.018Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:52:13.025Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:52:59.081Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:52:59.085Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T17:53:20.397Z] INFO: GET /api/user
+[2026-03-21T17:54:03.013Z] INFO: GET /api/users
+[2026-03-21T17:54:15.945Z] INFO: POST /api/auth/login
+[2026-03-21T17:54:32.161Z] INFO: GET /api/users
+[2026-03-21T17:59:56.407Z] INFO: ✅ Database connection verified.
+[2026-03-21T17:59:56.413Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:00:05.295Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:00:05.299Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:00:14.140Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:00:14.146Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:00:22.204Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:00:22.209Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:00:31.310Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:00:31.316Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:00:54.408Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:00:54.446Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:01:10.038Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:01:10.045Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:01:18.791Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:01:18.802Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:01:30.351Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:01:30.356Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:01:41.856Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:01:41.861Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:01:59.620Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:01:59.624Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:07:25.850Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:07:25.854Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:08:03.775Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:08:03.780Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:08:16.570Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:08:16.577Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:08:28.392Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:08:28.399Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:08:36.808Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:08:36.815Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:09:01.522Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:09:01.534Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:09:11.096Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:09:11.107Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:10:29.280Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:10:29.285Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:10:42.000Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:10:42.007Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:11:05.780Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:11:05.785Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:11:24.612Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:11:24.617Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:11:59.125Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:11:59.130Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:16:57.611Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:16:57.618Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:18:39.712Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:18:39.718Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:18:56.058Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:18:56.064Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:19:41.522Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:19:41.526Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:19:54.492Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:19:54.498Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:22:07.702Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:22:07.706Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:23:00.936Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:23:00.940Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:23:15.419Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:23:15.425Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:23:32.990Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:23:32.995Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:23:58.373Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:23:58.377Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:24:13.124Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:24:13.129Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:29:37.019Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:29:37.025Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:29:51.419Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:29:51.424Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:30:23.396Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:30:23.401Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:30:36.885Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:30:36.890Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:31:50.870Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:31:50.875Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:33:46.832Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:33:46.837Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:33:55.942Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:33:55.947Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:34:11.819Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:34:11.823Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:34:27.264Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:34:27.268Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:34:37.739Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:34:37.745Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:34:52.760Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:34:52.766Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:38:50.631Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:38:50.637Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:38:59.667Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:38:59.675Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:39:15.631Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:39:15.635Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:39:24.281Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:39:24.288Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:39:37.408Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:39:37.416Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:40:25.933Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:40:25.938Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:40:38.022Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:40:38.028Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:40:47.711Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:40:47.716Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:40:58.597Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:40:58.606Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:41:09.828Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:41:09.834Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:41:43.713Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:41:43.718Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:45:52.152Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:45:52.161Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:46:01.267Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:46:01.275Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:46:10.675Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:46:10.683Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:46:20.456Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:46:20.463Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:46:37.498Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:46:37.507Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:47:03.147Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:47:03.153Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:47:12.900Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:47:12.907Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:47:25.127Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:47:25.133Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:47:37.845Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:47:37.851Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:47:50.860Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:47:50.867Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:48:02.271Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:48:02.275Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:53:07.737Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:53:07.745Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:53:16.257Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:53:16.264Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:53:27.343Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:53:27.348Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:53:40.230Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:53:40.238Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:53:49.767Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:53:49.772Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:54:10.605Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:54:10.610Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:54:19.565Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:54:19.573Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:54:27.416Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:54:27.420Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:54:38.773Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:54:38.783Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:54:49.535Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:54:49.539Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:55:10.237Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:55:10.241Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:58:16.252Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:58:16.260Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:58:27.092Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:58:27.097Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:58:38.151Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:58:38.159Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:58:47.419Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:58:47.425Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:59:01.469Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:59:01.473Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:59:19.610Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:59:19.617Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:59:31.301Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:59:31.309Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T18:59:44.518Z] INFO: ✅ Database connection verified.
+[2026-03-21T18:59:44.523Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:00:03.904Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:00:03.912Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:00:50.607Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:00:50.611Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:01:02.686Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:01:02.694Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:01:20.186Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:01:20.194Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:01:32.890Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:01:32.894Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:01:47.838Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:01:47.843Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:04:50.461Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:04:50.467Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:05:02.510Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:05:02.516Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:05:13.103Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:05:13.110Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:05:23.071Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:05:23.079Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:05:38.689Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:05:38.694Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:06:12.414Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:06:12.418Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:06:23.111Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:06:23.116Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:06:31.795Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:06:31.803Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:06:41.045Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:06:41.050Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:06:51.699Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:06:51.703Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:07:10.750Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:07:10.756Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:10:23.970Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:10:23.979Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:10:33.519Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:10:33.528Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:10:43.468Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:10:43.477Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:10:53.424Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:10:53.430Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:11:03.534Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:11:03.539Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:11:17.946Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:11:17.953Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:11:26.867Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:11:26.872Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:11:35.865Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:11:35.872Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:11:45.192Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:11:45.197Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:11:59.730Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:11:59.735Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:13:03.851Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:13:03.858Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:16:36.970Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:16:36.975Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:16:45.982Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:16:45.987Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:16:54.538Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:16:54.544Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:17:03.997Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:17:04.002Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:17:13.489Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:17:13.496Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:18:03.569Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:18:03.575Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:18:12.570Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:18:12.578Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:18:21.123Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:18:21.127Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:18:29.263Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:18:29.269Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:18:40.096Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:18:40.100Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-21T19:18:52.705Z] INFO: ✅ Database connection verified.
+[2026-03-21T19:18:52.709Z] INFO: 🚀 Server running on port 5000 [undefined]
