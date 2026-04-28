@@ -314,3 +314,645 @@
 [2026-03-21T19:18:40.100Z] INFO: 🚀 Server running on port 5000 [undefined]
 [2026-03-21T19:18:52.705Z] INFO: ✅ Database connection verified.
 [2026-03-21T19:18:52.709Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-22T14:41:41.545Z] INFO: ✅ Database connection verified.
+[2026-03-22T14:41:41.550Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-22T15:49:40.758Z] INFO: GET /api/lenders
+[2026-03-22T15:56:35.610Z] INFO: GET /api/lenders
+[2026-03-22T15:56:35.621Z] INFO: GET /api/lenders
+[2026-03-22T15:59:25.944Z] INFO: GET /api/lenders
+[2026-03-22T15:59:25.954Z] INFO: GET /api/lenders
+[2026-03-22T16:19:57.635Z] INFO: POST /api/auth/register
+[2026-03-22T16:19:58.296Z] INFO: POST /api/lenders
+[2026-03-22T16:33:02.819Z] INFO: POST /api/auth/register
+[2026-03-22T16:33:02.891Z] ERROR: Email already registered. - POST /api/auth/register
+[2026-03-22T16:33:32.707Z] INFO: POST /api/auth/register
+[2026-03-22T16:33:32.788Z] ERROR: Email already registered. - POST /api/auth/register
+[2026-03-22T16:36:20.072Z] INFO: POST /api/auth/register
+[2026-03-22T16:36:20.270Z] INFO: POST /api/auth/login
+[2026-03-22T16:36:20.413Z] INFO: POST /api/lenders
+[2026-03-22T16:36:20.432Z] INFO: POST /api/lender-staff
+[2026-03-22T16:45:00.975Z] INFO: POST /api/auth/login
+[2026-03-22T16:45:07.601Z] INFO: GET /api/loans
+[2026-03-22T16:45:07.611Z] INFO: GET /api/loan-applications
+[2026-03-22T16:45:07.624Z] INFO: GET /api/lenders
+[2026-03-22T16:45:07.629Z] INFO: GET /api/borrowers
+[2026-03-22T16:45:07.636Z] INFO: GET /api/prediction-runs
+[2026-03-22T16:45:07.645Z] INFO: GET /api/audit-logs
+[2026-03-22T16:47:55.857Z] INFO: GET /api/loans
+[2026-03-22T16:47:55.860Z] INFO: GET /api/loan-applications
+[2026-03-22T16:47:55.863Z] INFO: GET /api/borrowers
+[2026-03-22T16:47:55.866Z] INFO: GET /api/prediction-runs
+[2026-03-22T16:47:55.870Z] INFO: GET /api/lenders
+[2026-03-22T16:47:55.875Z] INFO: GET /api/audit-logs
+[2026-03-22T16:48:43.375Z] INFO: POST /api/auth/login
+[2026-03-22T16:48:45.565Z] INFO: GET /api/loans
+[2026-03-22T16:48:45.603Z] INFO: GET /api/loan-applications
+[2026-03-22T16:48:45.610Z] INFO: GET /api/borrowers
+[2026-03-22T16:48:45.617Z] INFO: GET /api/lenders
+[2026-03-22T16:48:45.620Z] INFO: GET /api/prediction-runs
+[2026-03-22T16:48:45.633Z] INFO: GET /api/audit-logs
+[2026-03-22T16:49:06.549Z] INFO: POST /api/auth/login
+[2026-03-22T16:49:08.699Z] INFO: GET /api/loans
+[2026-03-22T16:49:08.701Z] INFO: GET /api/loan-applications
+[2026-03-22T16:49:08.704Z] INFO: GET /api/borrowers
+[2026-03-22T16:49:08.707Z] INFO: GET /api/lenders
+[2026-03-22T16:49:08.714Z] INFO: GET /api/prediction-runs
+[2026-03-22T16:49:08.722Z] INFO: GET /api/audit-logs
+[2026-03-22T16:53:10.170Z] INFO: GET /api/lender-staff
+[2026-03-22T16:53:10.174Z] INFO: GET /api/lenders
+[2026-03-22T17:04:13.492Z] INFO: GET /api/lender-staff
+[2026-03-22T17:04:13.495Z] INFO: GET /api/lenders
+[2026-03-22T17:04:15.804Z] INFO: POST /api/auth/login
+[2026-03-22T17:04:17.934Z] INFO: GET /api/loans
+[2026-03-22T17:04:17.940Z] INFO: GET /api/loan-applications
+[2026-03-22T17:04:17.942Z] INFO: GET /api/borrowers
+[2026-03-22T17:04:17.945Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:04:17.956Z] INFO: GET /api/audit-logs
+[2026-03-22T17:07:32.955Z] INFO: GET /api/loans
+[2026-03-22T17:07:32.960Z] INFO: GET /api/loan-applications
+[2026-03-22T17:07:32.963Z] INFO: GET /api/borrowers
+[2026-03-22T17:07:32.968Z] INFO: GET /api/lenders
+[2026-03-22T17:07:32.970Z] INFO: GET /api/lender-staff
+[2026-03-22T17:07:32.973Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:07:33.270Z] INFO: GET /api/audit-logs
+[2026-03-22T17:07:58.575Z] INFO: GET /api/loans
+[2026-03-22T17:07:58.577Z] INFO: GET /api/loan-applications
+[2026-03-22T17:07:58.581Z] INFO: GET /api/borrowers
+[2026-03-22T17:07:58.583Z] INFO: GET /api/lenders
+[2026-03-22T17:07:58.585Z] INFO: GET /api/lender-staff
+[2026-03-22T17:07:58.586Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:07:58.868Z] INFO: GET /api/audit-logs
+[2026-03-22T17:08:01.147Z] INFO: POST /api/auth/login
+[2026-03-22T17:08:24.666Z] INFO: GET /api/loans
+[2026-03-22T17:08:24.674Z] INFO: GET /api/loan-applications
+[2026-03-22T17:08:24.682Z] INFO: GET /api/borrowers
+[2026-03-22T17:08:24.695Z] INFO: GET /api/lenders
+[2026-03-22T17:08:24.708Z] INFO: GET /api/lender-staff
+[2026-03-22T17:08:24.757Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:08:24.927Z] INFO: GET /api/audit-logs
+[2026-03-22T17:08:26.449Z] INFO: POST /api/auth/login
+[2026-03-22T17:09:08.263Z] INFO: POST /api/auth/register
+[2026-03-22T17:09:08.461Z] INFO: POST /api/lender-staff
+[2026-03-22T17:09:18.121Z] INFO: GET /api/lender-staff
+[2026-03-22T17:09:18.123Z] INFO: GET /api/lenders
+[2026-03-22T17:09:26.785Z] INFO: POST /api/auth/login
+[2026-03-22T17:09:29.710Z] INFO: GET /api/repayment-schedules/overdue
+[2026-03-22T17:09:29.719Z] INFO: GET /api/loan-applications
+[2026-03-22T17:09:29.736Z] INFO: GET /api/loans
+[2026-03-22T17:09:29.741Z] INFO: GET /api/borrowers
+[2026-03-22T17:10:01.921Z] INFO: POST /api/auth/login
+[2026-03-22T17:10:04.154Z] INFO: GET /api/loans
+[2026-03-22T17:10:04.156Z] INFO: GET /api/loan-applications
+[2026-03-22T17:10:04.160Z] INFO: GET /api/borrowers
+[2026-03-22T17:10:04.171Z] INFO: GET /api/lenders
+[2026-03-22T17:10:04.178Z] INFO: GET /api/lender-staff
+[2026-03-22T17:10:04.188Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:10:04.229Z] INFO: GET /api/audit-logs
+[2026-03-22T17:17:34.225Z] INFO: POST /api/auth/login
+[2026-03-22T17:17:36.343Z] INFO: GET /api/loans
+[2026-03-22T17:17:36.347Z] INFO: GET /api/loan-applications
+[2026-03-22T17:17:36.356Z] INFO: GET /api/borrowers
+[2026-03-22T17:17:36.358Z] INFO: GET /api/lenders
+[2026-03-22T17:17:36.377Z] INFO: GET /api/lender-staff
+[2026-03-22T17:17:36.384Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:17:36.397Z] INFO: GET /api/audit-logs
+[2026-03-22T17:17:38.938Z] INFO: GET /api/loan-products
+[2026-03-22T17:18:55.082Z] INFO: GET /api/loan-products
+[2026-03-22T17:18:55.085Z] INFO: GET /api/lenders
+[2026-03-22T17:19:40.803Z] INFO: POST /api/auth/login
+[2026-03-22T17:19:42.927Z] INFO: GET /api/loans
+[2026-03-22T17:19:42.932Z] INFO: GET /api/loan-applications
+[2026-03-22T17:19:42.936Z] INFO: GET /api/borrowers
+[2026-03-22T17:19:42.938Z] INFO: GET /api/lenders
+[2026-03-22T17:19:42.943Z] INFO: GET /api/lender-staff
+[2026-03-22T17:19:42.947Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:19:42.956Z] INFO: GET /api/audit-logs
+[2026-03-22T17:20:03.301Z] INFO: GET /api/loans
+[2026-03-22T17:20:03.303Z] INFO: GET /api/loan-applications
+[2026-03-22T17:20:03.306Z] INFO: GET /api/borrowers
+[2026-03-22T17:20:03.309Z] INFO: GET /api/lenders
+[2026-03-22T17:20:03.311Z] INFO: GET /api/lender-staff
+[2026-03-22T17:20:03.315Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:20:03.551Z] INFO: GET /api/audit-logs
+[2026-03-22T17:20:15.823Z] INFO: POST /api/auth/login
+[2026-03-22T17:20:46.193Z] INFO: POST /api/auth/register
+[2026-03-22T17:20:46.394Z] INFO: POST /api/lender-staff
+[2026-03-22T17:20:55.040Z] INFO: GET /api/lender-staff
+[2026-03-22T17:20:55.041Z] INFO: GET /api/lenders
+[2026-03-22T17:20:57.458Z] INFO: POST /api/auth/login
+[2026-03-22T17:20:59.431Z] INFO: GET /api/loan-applications
+[2026-03-22T17:20:59.434Z] INFO: GET /api/loans
+[2026-03-22T17:20:59.435Z] INFO: GET /api/borrowers
+[2026-03-22T17:20:59.440Z] INFO: GET /api/repayment-schedules/overdue
+[2026-03-22T17:21:33.221Z] INFO: GET /api/loan-applications
+[2026-03-22T17:21:33.223Z] INFO: GET /api/loans
+[2026-03-22T17:21:33.226Z] INFO: GET /api/borrowers
+[2026-03-22T17:21:33.228Z] INFO: GET /api/repayment-schedules/overdue
+[2026-03-22T17:21:55.298Z] INFO: POST /api/auth/login
+[2026-03-22T17:21:57.455Z] INFO: GET /api/loans
+[2026-03-22T17:21:57.461Z] INFO: GET /api/loan-applications
+[2026-03-22T17:21:57.463Z] INFO: GET /api/borrowers
+[2026-03-22T17:21:57.470Z] INFO: GET /api/lenders
+[2026-03-22T17:21:57.473Z] INFO: GET /api/lender-staff
+[2026-03-22T17:21:57.481Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:21:57.498Z] INFO: GET /api/audit-logs
+[2026-03-22T17:30:10.554Z] INFO: GET /api/loans
+[2026-03-22T17:30:10.562Z] INFO: GET /api/loan-applications
+[2026-03-22T17:30:10.750Z] INFO: GET /api/borrowers
+[2026-03-22T17:30:10.820Z] INFO: GET /api/lenders
+[2026-03-22T17:30:10.832Z] INFO: GET /api/lender-staff
+[2026-03-22T17:30:10.842Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:30:10.872Z] INFO: GET /api/audit-logs
+[2026-03-22T17:31:10.808Z] INFO: POST /api/auth/login
+[2026-03-22T17:31:17.661Z] INFO: POST /api/auth/login
+[2026-03-22T17:35:38.151Z] INFO: GET /api/loans
+[2026-03-22T17:35:38.159Z] INFO: GET /api/loan-applications
+[2026-03-22T17:35:38.163Z] INFO: GET /api/borrowers
+[2026-03-22T17:35:38.174Z] INFO: GET /api/lenders
+[2026-03-22T17:35:38.206Z] INFO: GET /api/lender-staff
+[2026-03-22T17:35:38.209Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:35:38.449Z] INFO: GET /api/audit-logs
+[2026-03-22T17:36:05.978Z] INFO: GET /api/loans
+[2026-03-22T17:36:05.983Z] INFO: GET /api/loan-applications
+[2026-03-22T17:36:05.986Z] INFO: GET /api/borrowers
+[2026-03-22T17:36:05.989Z] INFO: GET /api/lenders
+[2026-03-22T17:36:05.990Z] INFO: GET /api/lender-staff
+[2026-03-22T17:36:06.002Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:36:06.179Z] INFO: GET /api/audit-logs
+[2026-03-22T17:36:08.599Z] INFO: GET /api/loans
+[2026-03-22T17:36:08.600Z] INFO: GET /api/loan-applications
+[2026-03-22T17:36:08.603Z] INFO: GET /api/borrowers
+[2026-03-22T17:36:08.611Z] INFO: GET /api/lenders
+[2026-03-22T17:36:08.613Z] INFO: GET /api/lender-staff
+[2026-03-22T17:36:08.615Z] INFO: GET /api/prediction-runs
+[2026-03-22T17:36:08.620Z] INFO: GET /api/audit-logs
+[2026-03-22T17:36:15.299Z] INFO: GET /api/lender-staff
+[2026-03-22T17:36:15.300Z] INFO: GET /api/lenders
+[2026-03-22T19:42:13.496Z] INFO: POST /api/auth/login
+[2026-03-22T19:42:15.808Z] INFO: GET /api/loans
+[2026-03-22T19:42:15.824Z] INFO: GET /api/loan-applications
+[2026-03-22T19:42:15.825Z] INFO: GET /api/lenders
+[2026-03-22T19:42:15.829Z] INFO: GET /api/borrowers
+[2026-03-22T19:42:15.833Z] INFO: GET /api/audit-logs
+[2026-03-22T19:42:15.837Z] INFO: GET /api/lender-staff
+[2026-03-22T19:42:15.854Z] INFO: GET /api/prediction-runs
+[2026-03-22T19:43:16.630Z] INFO: GET /api/loans
+[2026-03-22T19:43:16.633Z] INFO: GET /api/loan-applications
+[2026-03-22T19:43:16.646Z] INFO: GET /api/borrowers
+[2026-03-22T19:43:16.656Z] INFO: GET /api/lenders
+[2026-03-22T19:43:16.660Z] INFO: GET /api/lender-staff
+[2026-03-22T19:43:16.663Z] INFO: GET /api/prediction-runs
+[2026-03-22T19:43:16.810Z] INFO: GET /api/audit-logs
+[2026-03-23T13:48:42.172Z] INFO: ✅ Database connection verified.
+[2026-03-23T13:48:42.180Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-27T20:47:09.700Z] INFO: ✅ Database connection verified.
+[2026-03-27T20:47:09.706Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-03-27T20:48:54.259Z] INFO: POST /api/auth/login
+[2026-03-27T20:48:57.026Z] INFO: GET /api/loans
+[2026-03-27T20:48:57.045Z] INFO: GET /api/loan-applications
+[2026-03-27T20:48:57.086Z] INFO: GET /api/borrowers
+[2026-03-27T20:48:57.094Z] INFO: GET /api/lenders
+[2026-03-27T20:48:57.118Z] INFO: GET /api/lender-staff
+[2026-03-27T20:48:57.128Z] INFO: GET /api/prediction-runs
+[2026-03-27T20:48:57.154Z] INFO: GET /api/audit-logs
+[2026-03-27T20:57:17.038Z] INFO: GET /api/conferences
+[2026-03-27T20:57:17.060Z] INFO: GET /api/conferences
+[2026-03-27T20:59:15.871Z] INFO: GET /api/conferences
+[2026-03-27T20:59:50.928Z] INFO: GET /api/conferences
+[2026-03-27T20:59:55.120Z] INFO: GET /api/conferences
+[2026-03-27T20:59:59.955Z] INFO: GET /api/conferences
+[2026-03-27T21:00:13.673Z] INFO: GET /api/conferences
+[2026-03-27T21:01:11.535Z] INFO: GET /api/conferences
+[2026-03-27T21:01:16.526Z] INFO: GET /api/conferences
+[2026-03-27T21:01:45.995Z] INFO: GET /api/conferences
+[2026-03-27T21:01:46.005Z] INFO: GET /api/conferences
+[2026-04-24T06:00:11.249Z] INFO: ✅ Database connection verified.
+[2026-04-24T06:00:11.258Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-04-24T06:03:02.635Z] INFO: POST /api/auth/login
+[2026-04-24T06:03:02.791Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-24T06:07:37.997Z] INFO: POST /api/auth/login
+[2026-04-24T06:07:40.882Z] INFO: GET /api/loans
+[2026-04-24T06:07:40.892Z] INFO: GET /api/loan-applications
+[2026-04-24T06:07:40.916Z] INFO: GET /api/borrowers
+[2026-04-24T06:07:40.925Z] INFO: GET /api/lenders
+[2026-04-24T06:07:40.938Z] INFO: GET /api/lender-staff
+[2026-04-24T06:07:40.953Z] INFO: GET /api/prediction-runs
+[2026-04-24T06:07:40.983Z] INFO: GET /api/audit-logs
+[2026-04-24T06:07:55.010Z] INFO: GET /api/loans
+[2026-04-24T06:07:55.012Z] INFO: GET /api/loan-applications
+[2026-04-24T06:07:55.018Z] INFO: GET /api/borrowers
+[2026-04-24T06:07:55.024Z] INFO: GET /api/lenders
+[2026-04-24T06:07:55.027Z] INFO: GET /api/lender-staff
+[2026-04-24T06:07:55.029Z] INFO: GET /api/prediction-runs
+[2026-04-24T06:07:55.198Z] INFO: GET /api/audit-logs
+[2026-04-24T06:13:35.857Z] INFO: POST /api/auth/login
+[2026-04-24T06:13:37.955Z] INFO: GET /api/loan-applications
+[2026-04-24T06:13:37.957Z] INFO: GET /api/loans
+[2026-04-24T06:13:37.968Z] INFO: GET /api/borrowers
+[2026-04-24T06:13:37.972Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-24T06:14:03.550Z] INFO: GET /api/loan-applications
+[2026-04-24T06:14:03.552Z] INFO: GET /api/loans
+[2026-04-24T06:14:03.554Z] INFO: GET /api/borrowers
+[2026-04-24T06:14:03.557Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T16:29:56.792Z] INFO: ✅ Database connection verified.
+[2026-04-28T16:29:58.400Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-04-28T16:33:17.435Z] INFO: POST /api/auth/login
+[2026-04-28T16:33:18.253Z] INFO: GET /api/loans
+[2026-04-28T16:33:18.265Z] INFO: GET /api/loan-applications
+[2026-04-28T16:33:18.269Z] INFO: GET /api/borrowers
+[2026-04-28T16:33:18.273Z] INFO: GET /api/prediction-runs
+[2026-04-28T16:33:18.278Z] INFO: GET /api/audit-logs
+[2026-04-28T16:33:18.285Z] INFO: GET /api/lenders
+[2026-04-28T16:34:07.062Z] INFO: POST /api/auth/login
+[2026-04-28T16:35:20.330Z] INFO: POST /api/auth/login
+[2026-04-28T16:35:20.439Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T16:35:26.000Z] INFO: POST /api/auth/login
+[2026-04-28T16:35:26.004Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T16:35:34.021Z] INFO: POST /api/auth/login
+[2026-04-28T16:35:34.345Z] INFO: GET /api/loan-applications
+[2026-04-28T16:35:34.352Z] INFO: GET /api/loans
+[2026-04-28T16:35:34.360Z] INFO: GET /api/borrowers
+[2026-04-28T16:35:34.373Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T16:37:05.010Z] INFO: POST /api/auth/login
+[2026-04-28T16:37:05.087Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T16:37:25.108Z] INFO: POST /api/auth/login
+[2026-04-28T16:37:25.395Z] INFO: GET /api/loans
+[2026-04-28T16:37:25.397Z] INFO: GET /api/loan-applications
+[2026-04-28T16:37:25.400Z] INFO: GET /api/borrowers
+[2026-04-28T16:37:25.409Z] INFO: GET /api/lenders
+[2026-04-28T16:37:25.413Z] INFO: GET /api/prediction-runs
+[2026-04-28T16:37:25.436Z] INFO: GET /api/audit-logs
+[2026-04-28T16:45:35.028Z] INFO: POST /api/auth/login
+[2026-04-28T16:45:35.372Z] INFO: GET /api/loan-applications
+[2026-04-28T16:45:35.373Z] INFO: GET /api/loans
+[2026-04-28T16:45:35.376Z] INFO: GET /api/borrowers
+[2026-04-28T16:45:35.380Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T16:46:17.978Z] INFO: POST /api/auth/login
+[2026-04-28T16:46:18.386Z] INFO: GET /api/loans
+[2026-04-28T16:46:18.387Z] INFO: GET /api/loan-applications
+[2026-04-28T16:46:18.390Z] INFO: GET /api/borrowers
+[2026-04-28T16:46:18.392Z] INFO: GET /api/lenders
+[2026-04-28T16:46:18.410Z] INFO: GET /api/prediction-runs
+[2026-04-28T16:46:18.416Z] INFO: GET /api/audit-logs
+[2026-04-28T16:48:46.378Z] INFO: POST /api/auth/login
+[2026-04-28T16:55:06.852Z] INFO: POST /api/auth/login
+[2026-04-28T17:03:10.115Z] INFO: POST /api/auth/login
+[2026-04-28T17:04:25.494Z] INFO: POST /api/auth/login
+[2026-04-28T17:07:44.260Z] INFO: POST /api/auth/login
+[2026-04-28T17:09:31.229Z] INFO: POST /api/auth/login
+[2026-04-28T17:12:34.119Z] INFO: POST /api/auth/login
+[2026-04-28T17:12:38.959Z] INFO: GET /api/loans
+[2026-04-28T17:12:38.966Z] INFO: GET /api/loan-applications
+[2026-04-28T17:12:38.990Z] INFO: GET /api/borrowers
+[2026-04-28T17:12:38.993Z] INFO: GET /api/lenders
+[2026-04-28T17:12:39.003Z] INFO: GET /api/lender-staff
+[2026-04-28T17:12:39.037Z] INFO: GET /api/prediction-runs
+[2026-04-28T17:12:39.055Z] INFO: GET /api/audit-logs
+[2026-04-28T17:12:43.855Z] INFO: GET /api/loan-products
+[2026-04-28T17:30:52.878Z] INFO: GET /api/loan-products
+[2026-04-28T17:30:52.947Z] INFO: GET /api/lenders
+[2026-04-28T17:32:48.291Z] INFO: GET /api/lenders
+[2026-04-28T17:33:37.694Z] INFO: GET /api/loans
+[2026-04-28T17:33:37.698Z] INFO: GET /api/loan-applications
+[2026-04-28T17:33:37.706Z] INFO: GET /api/borrowers
+[2026-04-28T17:33:37.709Z] INFO: GET /api/lender-staff
+[2026-04-28T17:33:37.712Z] INFO: GET /api/prediction-runs
+[2026-04-28T17:33:37.716Z] INFO: GET /api/audit-logs
+[2026-04-28T17:33:59.352Z] INFO: GET /api/loan-products
+[2026-04-28T17:33:59.355Z] INFO: GET /api/lenders
+[2026-04-28T17:39:26.312Z] INFO: GET /api/lenders/me
+[2026-04-28T17:39:26.838Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:39:34.588Z] INFO: GET /api/lenders/me
+[2026-04-28T17:39:34.670Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:39:38.449Z] INFO: GET /api/loan-products
+[2026-04-28T17:39:38.452Z] INFO: GET /api/lenders
+[2026-04-28T17:39:40.433Z] INFO: GET /api/lenders/me
+[2026-04-28T17:39:40.438Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:39:41.446Z] INFO: GET /api/lenders/me
+[2026-04-28T17:39:41.451Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:47:51.766Z] INFO: GET /api/lenders
+[2026-04-28T17:49:23.212Z] INFO: POST /api/loan-products
+[2026-04-28T17:49:52.294Z] INFO: POST /api/auth/login
+[2026-04-28T17:49:54.812Z] INFO: GET /api/loans
+[2026-04-28T17:49:54.817Z] INFO: GET /api/loan-applications
+[2026-04-28T17:49:54.829Z] INFO: GET /api/borrowers
+[2026-04-28T17:49:54.834Z] INFO: GET /api/lenders
+[2026-04-28T17:49:54.837Z] INFO: GET /api/lender-staff
+[2026-04-28T17:49:54.843Z] INFO: GET /api/prediction-runs
+[2026-04-28T17:49:54.851Z] INFO: GET /api/audit-logs
+[2026-04-28T17:49:57.455Z] INFO: GET /api/loan-products
+[2026-04-28T17:51:26.664Z] INFO: GET /api/lenders
+[2026-04-28T17:51:59.931Z] INFO: POST /api/loan-products
+[2026-04-28T17:52:01.518Z] INFO: GET /api/loan-products
+[2026-04-28T17:53:27.209Z] INFO: GET /api/lenders
+[2026-04-28T17:53:42.535Z] INFO: GET /api/lender-staff
+[2026-04-28T17:57:01.556Z] INFO: GET /api/lender-staff
+[2026-04-28T17:57:01.565Z] INFO: GET /api/lenders
+[2026-04-28T17:57:12.954Z] INFO: GET /api/loans
+[2026-04-28T17:57:12.963Z] INFO: GET /api/loan-applications
+[2026-04-28T17:57:12.967Z] INFO: GET /api/borrowers
+[2026-04-28T17:57:12.971Z] INFO: GET /api/prediction-runs
+[2026-04-28T17:57:12.975Z] INFO: GET /api/audit-logs
+[2026-04-28T17:57:42.539Z] INFO: POST /api/auth/login
+[2026-04-28T17:57:53.332Z] INFO: GET /api/loan-applications
+[2026-04-28T17:57:53.353Z] INFO: GET /api/loans
+[2026-04-28T17:57:53.437Z] INFO: GET /api/borrowers
+[2026-04-28T17:57:53.440Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:18:10.401Z] INFO: POST /api/auth/login
+[2026-04-28T18:18:12.784Z] INFO: GET /api/loans
+[2026-04-28T18:18:12.792Z] INFO: GET /api/loan-applications
+[2026-04-28T18:18:12.799Z] INFO: GET /api/borrowers
+[2026-04-28T18:18:12.810Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:18:24.894Z] INFO: GET /api/borrowers
+[2026-04-28T18:19:21.693Z] INFO: GET /api/borrowers
+[2026-04-28T18:20:33.049Z] INFO: POST /api/auth/register
+[2026-04-28T18:20:51.834Z] INFO: POST /api/borrowers
+[2026-04-28T18:21:38.896Z] INFO: POST /api/borrower-profiles/borrower/ce54bce7-9611-4259-aae0-e206cb084506
+[2026-04-28T18:22:49.447Z] INFO: GET /api/borrowers
+[2026-04-28T18:23:08.254Z] INFO: GET /api/borrowers
+[2026-04-28T18:32:03.196Z] INFO: POST /api/auth/login
+[2026-04-28T18:32:05.483Z] INFO: GET /api/loan-applications
+[2026-04-28T18:32:05.486Z] INFO: GET /api/loans
+[2026-04-28T18:32:05.488Z] INFO: GET /api/borrowers
+[2026-04-28T18:32:05.491Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:33:53.029Z] INFO: GET /api/loan-applications
+[2026-04-28T18:33:53.030Z] INFO: GET /api/loans
+[2026-04-28T18:33:53.034Z] INFO: GET /api/borrowers
+[2026-04-28T18:33:53.038Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:37:13.733Z] INFO: GET /api/loan-applications
+[2026-04-28T18:37:13.734Z] INFO: GET /api/loans
+[2026-04-28T18:37:13.739Z] INFO: GET /api/borrowers
+[2026-04-28T18:37:13.743Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:39:55.100Z] INFO: GET /api/loan-applications
+[2026-04-28T18:39:55.102Z] INFO: GET /api/loans
+[2026-04-28T18:39:55.105Z] INFO: GET /api/borrowers
+[2026-04-28T18:39:55.107Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:41:17.571Z] INFO: GET /api/loans
+[2026-04-28T18:46:46.615Z] INFO: GET /api/lenders
+[2026-04-28T18:46:46.765Z] INFO: GET /api/loan-products
+[2026-04-28T18:46:56.724Z] INFO: GET /api/borrowers
+[2026-04-28T18:46:58.857Z] INFO: GET /api/borrowers
+[2026-04-28T18:46:58.865Z] INFO: GET /api/loan-applications
+[2026-04-28T18:46:58.873Z] INFO: GET /api/loans
+[2026-04-28T18:46:58.879Z] INFO: GET /api/repayment-schedules/overdue
+[2026-04-28T18:47:14.523Z] INFO: GET /api/lenders
+[2026-04-28T18:47:14.777Z] INFO: GET /api/loan-products
+[2026-04-28T19:49:03.379Z] INFO: GET /api/lenders
+[2026-04-28T19:49:03.593Z] INFO: GET /api/loan-products
+[2026-04-28T20:23:59.439Z] INFO: POST /api/auth/login
+[2026-04-28T20:26:04.551Z] INFO: POST /api/auth/login
+[2026-04-28T20:26:04.639Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T20:26:27.415Z] INFO: POST /api/auth/login
+[2026-04-28T20:29:22.446Z] INFO: POST /api/auth/login
+[2026-04-28T20:30:38.709Z] INFO: POST /api/auth/login
+[2026-04-28T20:30:39.053Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:30:39.088Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:30:39.099Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T20:30:39.144Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:30:40.124Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:30:42.154Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:30:46.179Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:36:38.460Z] INFO: POST /api/auth/login
+[2026-04-28T20:36:39.001Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:36:39.010Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:36:39.015Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T20:36:39.022Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:36:40.037Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:36:42.058Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:36:46.081Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:42:50.931Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:42:50.976Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:42:50.982Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T20:42:51.079Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:42:52.021Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:42:54.055Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:42:58.101Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:46:56.323Z] INFO: POST /api/auth/login
+[2026-04-28T20:46:57.402Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:46:57.432Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:46:57.472Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T20:46:57.498Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:46:58.507Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:47:00.533Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:47:04.560Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:47:52.860Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:47:52.878Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:47:52.888Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T20:47:53.074Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:47:53.923Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:47:55.987Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:48:00.015Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:54:13.230Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:16.082Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:17.316Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:17.349Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:19.376Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:19.387Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:23.424Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:23.454Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:28.921Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:29.374Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:30.517Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:30.521Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:32.551Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:32.559Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:36.681Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:36.684Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:56:34.868Z] INFO: POST /api/auth/login
+[2026-04-28T20:56:36.599Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:56:36.668Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:56:36.672Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T20:56:36.691Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:56:37.706Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:56:39.739Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:56:43.822Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T20:56:46.929Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:56:47.015Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:56.479Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:56.703Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:02:56.736Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:02:57.020Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:57.794Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:02:59.213Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:59.336Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:02:59.374Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:59.828Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:03:03.859Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:06:10.925Z] INFO: POST /api/auth/login
+[2026-04-28T21:06:12.759Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:06:12.777Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:06:12.781Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:06:13.475Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:06:13.820Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:06:15.849Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:06:19.880Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:07:55.800Z] INFO: POST /api/auth/login
+[2026-04-28T21:07:56.352Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:07:56.357Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:07:56.363Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:07:56.373Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:07:57.388Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:07:59.414Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:08:03.444Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:08:11.734Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:08:11.994Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:08:44.171Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:08:44.184Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:08:44.187Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:08:44.791Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:08:45.236Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:08:47.277Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:08:51.354Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:08:57.831Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:12:07.907Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:13:15.206Z] INFO: POST /api/auth/login
+[2026-04-28T21:13:15.756Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:13:15.768Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:13:15.772Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:13:15.785Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:13:16.817Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:13:18.861Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:13:22.890Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:13:24.916Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:13:34.192Z] INFO: POST /api/loan-applications
+[2026-04-28T21:13:34.789Z] ERROR: insert or update on table "loan_applications" violates foreign key constraint "loan_applications_borrower_id_fkey" - POST /api/loan-applications
+[2026-04-28T21:18:08.334Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:08.339Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:08.342Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:18:08.408Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:09.360Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:11.387Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:12.735Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:12.739Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:18:12.742Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:15.411Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:16.725Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:16.726Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:16.729Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:16.730Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:18:17.755Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:19.773Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:23.793Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:24.427Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:24.430Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:24.433Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:24.434Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:18:25.453Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:27.478Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:31.522Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:35.084Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:18:35.282Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:18:38.924Z] INFO: POST /api/loan-applications
+[2026-04-28T21:18:40.388Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:40.390Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:40.392Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:40.393Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:18:41.424Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:43.456Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:18:47.484Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:01.726Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:23:01.732Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:01.740Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:23:01.856Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:23:02.768Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:04.793Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:08.831Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:12.001Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:23:12.026Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:12.028Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:23:12.070Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:23:13.062Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:15.088Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:23:19.133Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:26:51.960Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:26:53.245Z] INFO: GET /api/loan-products/8ad3812e-4b0b-40b8-9e46-195382c797f8
+[2026-04-28T21:26:53.251Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:27:01.267Z] INFO: POST /api/loan-applications
+[2026-04-28T21:27:02.716Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:27:02.720Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:27:02.725Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:27:02.728Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:27:03.759Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:27:05.822Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:27:09.846Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:28:16.373Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:28:16.435Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:34:30.268Z] INFO: POST /api/auth/login
+[2026-04-28T21:34:30.551Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:34:30.556Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:34:30.559Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:34:30.560Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:34:31.588Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:34:33.616Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:34:37.649Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:34:38.752Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:34:40.161Z] INFO: GET /api/loan-products/8ad3812e-4b0b-40b8-9e46-195382c797f8
+[2026-04-28T21:34:40.167Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:34:43.640Z] INFO: POST /api/loan-applications
+[2026-04-28T21:34:43.673Z] INFO: POST /api/loans
+[2026-04-28T21:36:02.909Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:36:02.911Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:36:02.912Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:36:02.974Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:36:03.942Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:36:05.969Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:36:09.995Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:39:32.215Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:39:35.044Z] INFO: GET /api/loan-products/8ad3812e-4b0b-40b8-9e46-195382c797f8
+[2026-04-28T21:39:35.050Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:39:37.661Z] INFO: POST /api/loan-applications
+[2026-04-28T21:39:37.716Z] INFO: POST /api/loans
+[2026-04-28T21:42:52.849Z] INFO: POST /api/auth/login
+[2026-04-28T21:42:53.191Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:42:53.197Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:42:53.200Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:42:53.201Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:42:54.224Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:42:56.252Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:43:00.283Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:44:20.447Z] INFO: ✅ Database connection verified.
+[2026-04-28T21:44:20.452Z] INFO: 🚀 Server running on port 5000 [undefined]
+[2026-04-28T21:44:50.473Z] INFO: GET /api/loan-products/active
+[2026-04-28T21:44:51.636Z] INFO: GET /api/loan-products/8ad3812e-4b0b-40b8-9e46-195382c797f8
+[2026-04-28T21:44:51.651Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:44:54.517Z] INFO: POST /api/loan-applications
+[2026-04-28T21:44:54.566Z] INFO: POST /api/loans
+[2026-04-28T21:44:57.460Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:44:57.464Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:44:57.472Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:44:57.475Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:44:58.495Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:45:00.522Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:45:04.551Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:47:03.010Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:47:03.076Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:48:26.667Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:48:26.903Z] INFO: GET /api/borrower-profiles/borrower/ce54bce7-9611-4259-aae0-e206cb084506
+[2026-04-28T21:48:26.918Z] INFO: GET /api/prediction-runs/borrower/ce54bce7-9611-4259-aae0-e206cb084506?latest=true
+[2026-04-28T21:48:26.920Z] INFO: GET /api/loans/borrower/ce54bce7-9611-4259-aae0-e206cb084506?status=active
+[2026-04-28T21:52:01.153Z] INFO: POST /api/auth/login
+[2026-04-28T21:52:01.455Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:52:01.459Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:52:01.463Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:52:01.465Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:52:02.493Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:52:04.524Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:52:08.555Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:53:39.128Z] INFO: POST /api/auth/login
+[2026-04-28T21:53:39.557Z] INFO: GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:53:39.562Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:53:39.566Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:53:39.569Z] INFO: GET /api/loans/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?status=active
+[2026-04-28T21:53:40.597Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:53:42.624Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:53:46.654Z] INFO: GET /api/prediction-runs/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14?latest=true
+[2026-04-28T21:53:48.040Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:53:48.075Z] INFO: GET /api/loans/borrower/ce54bce7-9611-4259-aae0-e206cb084506
+[2026-04-28T21:55:36.430Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:55:36.431Z] INFO: GET /api/prediction-runs/borrower/ce54bce7-9611-4259-aae0-e206cb084506?latest=true
+[2026-04-28T21:55:37.461Z] INFO: GET /api/prediction-runs/borrower/ce54bce7-9611-4259-aae0-e206cb084506?latest=true
+[2026-04-28T21:55:39.491Z] INFO: GET /api/prediction-runs/borrower/ce54bce7-9611-4259-aae0-e206cb084506?latest=true
+[2026-04-28T21:55:43.525Z] INFO: GET /api/prediction-runs/borrower/ce54bce7-9611-4259-aae0-e206cb084506?latest=true
+[2026-04-28T21:59:32.158Z] INFO: GET /api/borrowers/me
+[2026-04-28T21:59:32.160Z] INFO: GET /api/loans/borrower/ce54bce7-9611-4259-aae0-e206cb084506
+[2026-04-28T21:59:32.246Z] INFO: GET /api/repayment-schedules/loan/79e0c0a6-e23b-4efd-9805-e13efd7e2e31

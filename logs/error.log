@@ -1,0 +1,50 @@
+[2026-03-22T16:33:02.891Z] ERROR: Email already registered. - POST /api/auth/register
+[2026-03-22T16:33:32.788Z] ERROR: Email already registered. - POST /api/auth/register
+[2026-04-24T06:03:02.791Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T16:35:20.439Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T16:35:26.004Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T16:37:05.087Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T17:39:26.838Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:39:34.670Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:39:40.438Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T17:39:41.451Z] ERROR: invalid input syntax for type uuid: "me" - GET /api/lenders/me
+[2026-04-28T20:26:04.639Z] ERROR: Invalid email or password. - POST /api/auth/login
+[2026-04-28T20:30:39.144Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:36:39.022Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:42:51.079Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:46:57.498Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:47:53.074Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:16.082Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:17.349Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:19.387Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:54:23.454Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:29.374Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:30.521Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:32.559Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:55:36.684Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:56:36.691Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T20:56:47.015Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:57.020Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:02:59.374Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:06:13.475Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:07:56.373Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:08:11.994Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:08:44.791Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:13:15.785Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:13:34.789Z] ERROR: insert or update on table "loan_applications" violates foreign key constraint "loan_applications_borrower_id_fkey" - POST /api/loan-applications
+[2026-04-28T21:18:08.408Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:12.742Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:16.729Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:24.430Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:18:40.390Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:23:01.856Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:23:12.070Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:27:02.725Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:28:16.435Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:34:30.556Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:36:02.974Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:42:53.200Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:44:57.464Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:47:03.076Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:52:01.459Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14
+[2026-04-28T21:53:39.566Z] ERROR: Profile not found for this borrower. - GET /api/borrower-profiles/borrower/b7a87b00-cd01-4b0b-9a2d-349e1756de14

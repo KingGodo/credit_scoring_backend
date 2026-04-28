@@ -21,8 +21,8 @@ router.get('/borrower/:borrowerId', authenticate, authorize('admin', 'loan_offic
 // GET /api/loans/:id  — single loan detail
 router.get('/:id', authenticate, authorize('admin', 'loan_officer', 'borrower'), getLoanById);
 
-// POST /api/loans  — admin & loan_officer create a loan (after application approved)
-router.post('/', authenticate, authorize('admin', 'loan_officer'), validateCreateLoan, createLoan);
+// POST /api/loans  — admin, loan_officer, and borrower (for auto-creation after application)
+router.post('/', authenticate, authorize('admin', 'loan_officer', 'borrower'), validateCreateLoan, createLoan);
 
 // PATCH /api/loans/:id/status  — update loan status
 router.patch('/:id/status', authenticate, authorize('admin', 'loan_officer'), validateStatusUpdate, changeLoanStatus);
